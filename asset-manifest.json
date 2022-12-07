@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/quiz-appka/static/css/main.2fad25ac.css",
-    "main.js": "/quiz-appka/static/js/main.ec5141e9.js",
+    "main.js": "/quiz-appka/static/js/main.89e86bd9.js",
     "static/media/Poppins-SemiBold.ttf": "/quiz-appka/static/media/Poppins-SemiBold.ac8d04b620e54be9b0f0.ttf",
     "static/media/Poppins-Bold.ttf": "/quiz-appka/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
     "static/media/Rubik-Regular.ttf": "/quiz-appka/static/media/Rubik-Regular.974ab100afa4538622da.ttf",
     "static/media/Rubik-Medium.ttf": "/quiz-appka/static/media/Rubik-Medium.9eca2a21c16a15364ea0.ttf",
     "index.html": "/quiz-appka/index.html",
     "main.2fad25ac.css.map": "/quiz-appka/static/css/main.2fad25ac.css.map",
-    "main.ec5141e9.js.map": "/quiz-appka/static/js/main.ec5141e9.js.map"
+    "main.89e86bd9.js.map": "/quiz-appka/static/js/main.89e86bd9.js.map"
   },
   "entrypoints": [
     "static/css/main.2fad25ac.css",
-    "static/js/main.ec5141e9.js"
+    "static/js/main.89e86bd9.js"
   ]
 }
